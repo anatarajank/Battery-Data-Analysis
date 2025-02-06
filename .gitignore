@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Files to ignore
+jupyter notebooks/archive/*.ipynb
