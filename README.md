@@ -1,6 +1,6 @@
 # Oxford Battery Data Analysis
 
-This repository contains a Jupyter Notebook that explores the Oxford Battery Degradation Dataset, specifically focusing on the EIL-MJ1-015 dataset. The analysis aims to understand battery behavior, including capacity fade, state of charge (SOC), and dQ/dV characteristics.
+This repository contains a Jupyter Notebook that explores the Oxford Battery Degradation Dataset, i.e., EIL-MJ1-015 dataset. The analysis aims to understand battery behavior, including capacity fade, state of charge (SOC), and dQ/dV characteristics.
 
 ## Project Overview
 
@@ -15,12 +15,11 @@ The analysis utilizes Python and popular libraries like Pandas, NumPy, Matplotli
 
 ## Dataset
 
-The Oxford Battery Degradation Dataset is a valuable resource for battery research, providing electrochemical data from commercially available 18650-format lithium-ion batteries. The EIL-MJ1-015 dataset, used in this project, captures the battery's response to various charge and discharge cycles.
+The Oxford Battery Degradation Dataset is a valuable resource for battery research, providing electrochemical data from a commercially available 18650-format lithium-ion battery. The EIL-MJ1-015 dataset, used in this project, captures the battery's response to various charge and discharge cycles.
 
 **Dataset Structure:**
 
 This dataset is comprised of two main sections. The first four columns provide a summary of the cycling data, while the remaining columns contain the detailed cycling data itself.  Before further analysis, the dataset requires some cleaning and preprocessing.
-
 
 ## Notebook
 
@@ -45,4 +44,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the CC BY 4.0 International license. See the `LICENSE` file for details.
