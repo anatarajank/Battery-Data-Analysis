@@ -32,7 +32,7 @@ This dataset is comprised of two main sections. The first four columns provide a
 
 ## Notebook
 
-The Jupyter Notebook [Oxford_Battery_Data_Analysis_V1.ipynb] (https://github.com/anatarajank/Battery-Data-Analysis/tree/main/jupyter%20notebooks) guides you through the following steps:
+The Jupyter Notebook [Oxford_Battery_Data_Analysis_V1.ipynb](https://github.com/anatarajank/Battery-Data-Analysis/tree/main/jupyter%20notebooks) guides you through the following steps:
 
 1. **Data Loading and Preprocessing:** Cleaning and organizing the dataset for analysis.
 2. **Capacity Fade Analysis:** Investigating the battery's capacity decline over cycles.
