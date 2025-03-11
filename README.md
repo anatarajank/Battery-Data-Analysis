@@ -2,6 +2,15 @@
 
 This repository contains a Jupyter Notebook that explores the Oxford Battery Degradation Dataset, i.e., EIL-MJ1-015 dataset. The analysis aims to understand battery behavior, including capacity fade, state of charge (SOC), and dQ/dV characteristics.
 
+## Atribution
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/anatarajank/Battery-Data-Analysis">Battery Data Analysis</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/anatarajank/">Aravindan Natarajan</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
+## Citation
+If you use this repository in your work, please cite using the following:
+
+[Battery Data Analysis, Aravindan Natarajan, https://github.com/anatarajank/Battery-Data-Analysis](https://github.com/anatarajank/Battery-Data-Analysis)
+
 ## Project Overview
 
 This project reproduces and expands upon the data analysis presented in the research article:
@@ -23,7 +32,7 @@ This dataset is comprised of two main sections. The first four columns provide a
 
 ## Notebook
 
-The Jupyter Notebook (`Oxford_Battery_Data_Analysis.ipynb`) guides you through the following steps:
+The Jupyter Notebook [Oxford_Battery_Data_Analysis_V1.ipynb] (https://github.com/anatarajank/Battery-Data-Analysis/tree/main/jupyter%20notebooks) guides you through the following steps:
 
 1. **Data Loading and Preprocessing:** Cleaning and organizing the dataset for analysis.
 2. **Capacity Fade Analysis:** Investigating the battery's capacity decline over cycles.
@@ -41,6 +50,9 @@ The Jupyter Notebook (`Oxford_Battery_Data_Analysis.ipynb`) guides you through t
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
+
+## Author
+Aravindan Natarajan
 
 ## License
 
